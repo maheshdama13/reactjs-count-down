@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import CountDown from './components/CountDown';
+import Counter from './components/counter';
 
 function App() {
   return (
-    <CountDown />
+    <Counter />
   );
 }
 
