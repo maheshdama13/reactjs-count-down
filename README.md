@@ -1,3 +1,9 @@
+# reactjs-count-down
+It is count down app made in reactjs. It accepts the count values in minutes and seconds from separate inputs and display the count down every seconds.
+
+------------
+------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
